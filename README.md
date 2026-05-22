@@ -93,6 +93,28 @@ me.say_hi()
 
 ---
 
+## `$ cat ./achievements` 🏆
+
+<div align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
+
+| 🏅 Achievement | 📋 How I earned it |
+|---|---|
+| ⭐ **Starstruck** | Got my repos starred by the community |
+| 🫛 **Pair Extraordinaire** | Co-authored merged pull requests |
+| 🤠 **Quickdraw** | Closed issues/PRs within 5 minutes |
+| 🦈 **Pull Shark** | Opened pull requests that got merged |
+| 🔀 **YOLO** | Merged a PR without code review |
+
+</div>
+
+---
+
 ## `$ cat ./github-stats` 📊
 
 <div align="center">
