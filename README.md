@@ -1,188 +1,250 @@
 <div align="center">
 
-<!-- Animated Banner — Cyberpunk Neon Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavyansh%20Tiwari&fontSize=52&fontColor=bd00ff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=56&descSize=20&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kavyansh%20Tiwari&fontSize=55&fontColor=BD00FF&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer%20|%20Developer%20|%20Problem%20Solver&descAlignY=58&descSize=20&descColor=00D4FF"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD00FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=%3E+Hello+World!+I'm+Kavyansh+%F0%9F%91%BE;%3E+I+don't+have+bugs+%E2%80%94+I+have+random+features+%F0%9F%90%9E;%3E+Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=BD00FF&center=true&vCenter=true&width=850&lines=Electronics+%26+Telecommunication+Student+⚡;Python+Developer+🐍;Building+Projects+and+Learning+Every+Day+🚀;DSA+%7C+Web+Development+%7C+Embedded+Systems;Turning+Ideas+Into+Reality+💡"/>
+
+<img src="https://komarev.com/ghpvc/?username=Kav45nsh&label=Profile%20Views&color=BD00FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👋 Hello World! I'm Kavyansh
+
+```yaml
+name: Kavyansh Tiwari
+username: Kav45nsh
+location: India 🇮🇳
+
+education:
+  - B.E. Electronics & Telecommunication Engineering
+
+currently_learning:
+  - Advanced Python
+  - Data Structures & Algorithms
+  - Full Stack Web Development
+  - Embedded Systems
+  - IoT Technologies
+
+interests:
+  - Software Engineering
+  - Problem Solving
+  - Open Source
+  - Electronics Projects
+  - Automation
+  - Web Development
+
+goal:
+  - Become a Skilled Software Engineer
+  - Build Real-World Products
+  - Contribute to Open Source
+```
+
+---
+
+## 🚀 About Me
+
+- 🎓 Electronics & Telecommunication Engineering Student
+- 🐍 Passionate about Python Development
+- 💻 Interested in Software Engineering and Backend Development
+- 🌐 Building Web Applications and Personal Projects
+- ⚡ Exploring Embedded Systems and IoT
+- 🧩 Solving DSA and Competitive Programming Problems
+- 🚀 Always learning, building, and improving
+
+---
+
+## 🔭 Current Focus
+
+- 📚 Mastering Python Programming
+- 🧠 Strengthening Data Structures & Algorithms
+- 🌍 Learning Full Stack Development
+- ⚙️ Exploring Embedded Systems & IoT
+- 🔥 Building Real-World Projects
+- 🤝 Contributing to Open Source
+
+---
+
+# ⚙️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap,tailwind"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+</p>
+
+### ⚡ Electronics & Embedded
+
+<p align="left">
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-00D4FF?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-BD00FF?style=for-the-badge)
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Kav45nsh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kav45nsh&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Kav45nsh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kav45nsh&repo=YOUR_SECOND_REPOSITORY&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+### 💡 Project Ideas I'm Working On
+
+- 🌐 Personal Portfolio Website
+- 🤖 Python Automation Tools
+- 📊 DSA Practice Repository
+- 🏢 Business Website Projects
+- 📡 IoT & Embedded Projects
+- ⚡ Electronics Mini Projects
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kav45nsh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kav45nsh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kav45nsh&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kav45nsh&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kav45nsh&theme=discord&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+🐍 Advanced Python
+🧠 Data Structures & Algorithms
+🌐 Full Stack Development
+⚡ Embedded Systems
+📡 IoT Technologies
+☁️ Backend Development
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Solve 500+ DSA Problems
+- ✅ Build 10+ Real Projects
+- ✅ Contribute to Open Source
+- ✅ Learn System Design Fundamentals
+- ✅ Create IoT & Embedded Projects
+- ✅ Become Industry Ready
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kavyansh-tiwari-368b02410">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Kav45nsh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:kavyanshtiwari09@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/kav45nsh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-```
-██╗  ██╗ █████╗ ██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
-██║ ██╔╝██╔══██╗██║   ██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║
-█████╔╝ ███████║██║   ██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║
-██╔═██╗ ██╔══██║╚██╗ ██╔╝  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║
-██║  ██╗██║  ██║ ╚████╔╝    ██║   ██║  ██║██║ ╚████║███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
-```
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kav45nsh/Kav45nsh/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-## `$ whoami` 👾
+# 💭 Developer Philosophy
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```python
-class Kavyansh:
-    def __init__(self):
-        self.name       = "Kavyansh Tiwari"
-        self.username   = "Kav45nsh"
-        self.role       = "Student & Aspiring Dev 🎓"
-        self.location   = "India 🇮🇳"
-        self.languages  = ["Python", "JavaScript", "HTML/CSS"]
-        self.passions   = ["Problem Solving", "DSA", "Web Dev"]
-        self.mantra     = "Code. Break. Fix. Repeat. 🔁"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something epic together 🚀")
-
-me = Kavyansh()
-me.say_hi()
+```cpp
+while(alive)
+{
+    learn();
+    build();
+    improve();
+}
 ```
 
-<br clear="right"/>
-
-> 💻 Passionate Python developer exploring software engineering and problem solving.  
-> 🔭 Building projects, learning new technologies, and turning ideas into code.  
-> 🌱 Currently mastering **Python**, **Data Structures & Algorithms**, and **Web Development**.  
-> ⚡ Always curious, always learning, always coding.  
-> 🎯 Aspiring software engineer focused on creating impactful solutions.  
-> 🧠 Fun fact: I debug my life the same way I debug my code — with lots of `print()` statements.  
-
----
-
-## `$ ls ./tech-stack` 🛠️
-
-**⌨️ Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**🧰 Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**📦 Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-**🗄️ Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## `$ cat ./achievements` 🏆
-
-<div align="center">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
-
-| 🏅 Achievement | 📋 How I earned it |
-|---|---|
-| ⭐ **Starstruck** | Got my repos starred by the community |
-| 🫛 **Pair Extraordinaire** | Co-authored merged pull requests |
-| 🤠 **Quickdraw** | Closed issues/PRs within 5 minutes |
-| 🦈 **Pull Shark** | Opened pull requests that got merged |
-| 🔀 **YOLO** | Merged a PR without code review |
-
-</div>
-
----
-
-## `$ cat ./github-stats` 📊
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kav45nsh&show_icons=true&bg_color=0d0d1a&title_color=bd00ff&icon_color=00d4ff&text_color=c9d1d9&border_color=bd00ff&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kav45nsh&background=0d0d1a&border=bd00ff&stroke=bd00ff&ring=bd00ff&fire=ff2079&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=bd00ff&sideLabels=bd00ff&dates=c9d1d9&border_radius=10"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kav45nsh&layout=compact&bg_color=0d0d1a&title_color=bd00ff&text_color=c9d1d9&border_color=bd00ff&border_radius=10"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kav45nsh&bg_color=0d0d1a&color=bd00ff&line=00d4ff&point=ff2079&area=true&area_color=302b63"/>
-
-</div>
-
----
-
-## `$ ls ./projects` 🚀
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kav45nsh&repo=Kav45nsh&bg_color=0d0d1a&title_color=bd00ff&text_color=c9d1d9&border_color=bd00ff&icon_color=00d4ff)](https://github.com/Kav45nsh)
-
-</div>
-
-> 🔨 More projects being brewed... watch this space! ☕
-
----
-
-## `$ ping ./connect` 🌐
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kavyansh-tiwari-368b02410)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kav45nsh)
-[![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kav45nsh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyanshtiwari09@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kav45nsh)
-
-</div>
-
----
-
-## `$ ./contribution-snake` 🐍
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kav45nsh/Kav45nsh/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</div>
-
-> ⚙️ To activate the snake animation, set up this GitHub Action in your profile repo:  
-> `.github/workflows/snake.yml` → uses `Platane/snk` action on a cron schedule.
-
----
-
-## `$ fortune` 🎲
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."           ║
-║                                        — John Johnson        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+> "Technology is best when it brings together creativity, engineering, and problem solving."
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+stopping+by!+👾&fontSize=24&fontColor=bd00ff&animation=twinkling" width="100%"/>
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
 
 </div>
