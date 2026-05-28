@@ -25,7 +25,6 @@ currently_learning:
   - Data Structures & Algorithms
   - Full Stack Web Development
   - Embedded Systems
-  - IoT Technologies
 
 interests:
   - Software Engineering
@@ -34,11 +33,6 @@ interests:
   - Electronics Projects
   - Automation
   - Web Development
-
-goal:
-  - Become a Skilled Software Engineer
-  - Build Real-World Products
-  - Contribute to Open Source
 ```
 
 ---
@@ -60,7 +54,7 @@ goal:
 - 📚 Mastering Python Programming
 - 🧠 Strengthening Data Structures & Algorithms
 - 🌍 Learning Full Stack Development
-- ⚙️ Exploring Embedded Systems & IoT
+- ⚙️ Exploring Embedded Systems
 - 🔥 Building Real-World Projects
 - 🤝 Contributing to Open Source
 
@@ -119,14 +113,6 @@ goal:
 
 </div>
 
-### 💡 Project Ideas I'm Working On
-
-- 🌐 Personal Portfolio Website
-- 🤖 Python Automation Tools
-- 📊 DSA Practice Repository
-- 🏢 Business Website Projects
-- 📡 IoT & Embedded Projects
-- ⚡ Electronics Mini Projects
 
 ---
 
@@ -168,27 +154,12 @@ goal:
 
 ---
 
-# 📚 Currently Learning
 
-```text
-🐍 Advanced Python
-🧠 Data Structures & Algorithms
-🌐 Full Stack Development
-⚡ Embedded Systems
-📡 IoT Technologies
-☁️ Backend Development
 ```
 
 ---
 
-# 🎯 2026 Goals
 
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 10+ Real Projects
-- ✅ Contribute to Open Source
-- ✅ Learn System Design Fundamentals
-- ✅ Create IoT & Embedded Projects
-- ✅ Become Industry Ready
 
 ---
 
