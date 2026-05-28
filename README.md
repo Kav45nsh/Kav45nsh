@@ -15,20 +15,26 @@
 ```yaml
 name: Kavyansh Tiwari
 education: Electronics & Telecommunication Engineering
-focus:
-  - Python
-  - DSA
-  - Web Development
-  - Embedded Systems
+role: Student • Developer • Tech Enthusiast
 
-learning:
+interests:
+  - Python Development
+  - Problem Solving
+  - Full Stack Web Development
+  - Machine Learning 
+
+currently_learning:
+  - Data Structures & Algorithms
   - Beginner Machine Learning
   - Backend Development
 
-future_goals:
+future_learning:
   - AWS Cloud
-  - Open Source
+  - Open Source Contribution
 ```
+
+🎓 Electronics & Telecommunication Engineering student passionate about software development, embedded systems, and problem solving.  
+🐍 Currently exploring Python, full stack web development, and beginner machine learning while building projects and improving DSA skills.  
 
 ---
 
