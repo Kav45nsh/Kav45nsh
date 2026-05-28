@@ -1,186 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kavyansh%20Tiwari&fontSize=55&fontColor=BD00FF&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer%20|%20Developer%20|%20Problem%20Solver&descAlignY=58&descSize=20&descColor=00D4FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:1a1a40&height=220&section=header&text=Kavyansh%20Tiwari&fontSize=55&fontColor=00FFB3&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Telecommunication%20Engineer%20⚡&descAlignY=58&descSize=18&descColor=00D9FF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=BD00FF&center=true&vCenter=true&width=850&lines=Electronics+%26+Telecommunication+Student+⚡;Python+Developer+🐍;Building+Projects+and+Learning+Every+Day+🚀;DSA+%7C+Web+Development+%7C+Embedded+Systems;Turning+Ideas+Into+Reality+💡"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=850&lines=Python+Developer+🐍;Machine+Learning+Beginner+🤖;DSA+%7C+Web+Development+%7C+Embedded+Systems;Future+AWS+Cloud+Learner+☁️;Code.+Build.+Repeat.+⚡"/>
 
-<img src="https://komarev.com/ghpvc/?username=Kav45nsh&label=Profile%20Views&color=BD00FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Kav45nsh&label=PROFILE+VIEWS&color=00ffb3&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 Hello World! I'm Kavyansh
+# 💫 About Me
 
 ```yaml
 name: Kavyansh Tiwari
-username: Kav45nsh
-location: India 🇮🇳
-
-education:
-  - B.E. Electronics & Telecommunication Engineering
-
-currently_learning:
-  - Advanced Python
-  - Data Structures & Algorithms
-  - Full Stack Web Development
+education: Electronics & Telecommunication Engineering
+focus:
+  - Python
+  - DSA
+  - Web Development
   - Embedded Systems
 
-interests:
-  - Software Engineering
-  - Problem Solving
+learning:
+  - Beginner Machine Learning
+  - Backend Development
+
+future_goals:
+  - AWS Cloud
   - Open Source
-  - Electronics Projects
-  - Automation
-  - Web Development
 ```
 
 ---
 
-## 🚀 About Me
+# ⚡ Tech Stack
 
-- 🎓 Electronics & Telecommunication Engineering Student
-- 🐍 Passionate about Python Development
-- 💻 Interested in Software Engineering and Backend Development
-- 🌐 Building Web Applications and Personal Projects
-- ⚡ Exploring Embedded Systems and IoT
-- 🧩 Solving DSA and Competitive Programming Problems
-- 🚀 Always learning, building, and improving
+### Languages
 
----
-
-## 🔭 Current Focus
-
-- 📚 Mastering Python Programming
-- 🧠 Strengthening Data Structures & Algorithms
-- 🌍 Learning Full Stack Development
-- ⚙️ Exploring Embedded Systems
-- 🔥 Building Real-World Projects
-- 🤝 Contributing to Open Source
-
----
-
-# ⚙️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css"/>
 </p>
 
-### 🌐 Web Development
+### Web & Frameworks
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap,tailwind"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind"/>
 </p>
 
-### 🗄️ Databases
+### Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### Electronics
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
-</p>
+<p>
 
-### ⚡ Electronics & Embedded
-
-<p align="left">
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-00D4FF?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-BD00FF?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00FFB3?style=for-the-badge&logo=Arduino&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=esphome&logoColor=00FFB3)
+![IoT](https://img.shields.io/badge/IoT-00D9FF?style=for-the-badge)
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Current Focus
+
+- 🧠 DSA & Problem Solving
+- 🐍 Python Development
+- 🌐 Full Stack Web Development
+- 🤖 Beginner Machine Learning
+- ⚡ Embedded & IoT Projects
+- ☁️ Future AWS Cloud Learning
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kav45nsh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kav45nsh&theme=chartreuse-dark&hide_border=true&background=000000"/>
+
+</div>
+
+<div align="center">
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kav45nsh&bg_color=000000&color=00FFB3&line=00D9FF&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kav45nsh&theme=matrix&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/Kav45nsh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kav45nsh&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFB3"/>
 </a>
-
-<a href="https://github.com/Kav45nsh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kav45nsh&repo=YOUR_SECOND_REPOSITORY&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kav45nsh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kav45nsh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kav45nsh&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kav45nsh&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kav45nsh&theme=discord&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
-
-
-```
-
----
-
-
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/kavyansh-tiwari-368b02410">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Kav45nsh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
 <a href="mailto:kavyanshtiwari09@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/kav45nsh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF004D"/>
 </a>
 
 </div>
@@ -197,25 +133,12 @@ interests:
 
 ---
 
-# 💭 Developer Philosophy
-
-```cpp
-while(alive)
-{
-    learn();
-    build();
-    improve();
-}
-```
-
-> "Technology is best when it brings together creativity, engineering, and problem solving."
-
----
-
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
+```bash
+> Code. Build. Break. Learn. Repeat.
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0c29,100:1a1a40&height=120&section=footer"/>
 
 </div>
